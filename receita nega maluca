@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Receita de Nega Maluca</title>
+    </head>
+
+    <header>
+        <h1>Receita de Nega Maluca</h1>
+    </header>
+
+    <body>
+<h3><em>Ingredientes</em></h3>
+ <ul>
+         <li class="itens"> Ovos | 3 unidade(s)</li>
+         <li class="itens">Açúcar | 1 xícara(s)</li>
+         <li class="itens">Farinha de trigo | 2 xícara(s)</li>
+         <li class="itens">Achocolatado | 1 xícara(s)</li>
+         <li class="itens">Óleo | 1/2 xícara(s)</li>
+         <li class="itens">Fermento em pó | 1 colher(es) de sopa</li>
+         <li class="itens">Sal | 1 colher(es) de café</li>
+         <li class="itens">Água quente | 1 xícara(s)</li>
+ </ul>
+<h3><em><strong>Modo de preparo:</strong></em></h3>
+<p>Bata os ovos com o açúcar, óleo, achocolatado e farinha, depois adicione a água quente e por último o fermento em pó. Asse em forno com temperatura média por 40 minutos, desenforne quente. Para a cobertura: 4 colheres ( sopa) de leite ½ xícara (chá) de chocolate em pó 1 colher (sopa) de margarina 1 xícara (chá) de açúcar Coloque todos os ingredientes em uma panela e leve ao fogo até que levante fervura, despeje ainda quente em cima do bolo. Granulado por cima opcional</p>
+    </body>
+</html>
